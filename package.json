@@ -1,0 +1,8 @@
+{
+  "name": "teamway-demo",
+  "private": true,
+  "workspaces": [
+    "server",
+    "client"
+  ]
+}

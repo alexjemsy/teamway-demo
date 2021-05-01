@@ -1,0 +1,198 @@
+[
+  {
+    "id": "q1",
+    "question": "You’re really busy at work and a colleague is telling you their life story and personal woes. You:",
+    "response": {
+      "extrovert": [
+        "Listen, but with only with half an ear",
+        "Interrupt and explain that you are really busy at the moment"
+      ],
+      "introvert": [
+        "Don’t dare to interrupt them",
+        "Think it’s more important to give them some of your time; work can wait"
+      ]
+    }
+  },
+  {
+    "id": "q2",
+    "question": "You’ve been sitting in the doctor’s waiting room for more than 25 minutes. You:",
+    "response": {
+      "extrovert": [
+        "Explain to other equally impatient people in the room that the doctor is always running late",
+        "Complain in a loud voice, while tapping your foot impatiently"
+      ],
+      "introvert": [
+        "Look at your watch every two minutes",
+        "Bubble with inner anger, but keep quiet"
+      ]
+    }
+  },
+  {
+    "id": "q3",
+    "question": "You’re having an animated discussion with a colleague regarding a project that you’re in charge of. You:",
+    "response": {
+      "extrovert": [
+        "Defend your own point of view, tooth and nail",
+        "Continuously interrupt your colleague"
+      ],
+      "introvert": [
+        "Don’t dare contradict them",
+        "Think that they are obviously right"
+      ]
+    }
+  },
+  {
+    "id": "q4",
+    "question": "You are taking part in a guided tour of a museum. You:",
+    "response": {
+      "extrovert": [
+        "Are right up the front, adding your own comments in a loud voice",
+        "Make sure that everyone is able to hear properly"
+      ],
+      "introvert": [
+        "Are a bit too far towards the back so don’t really hear what the guide is saying",
+        "Follow the group without question"
+      ]
+    }
+  },
+  {
+    "id": "q5",
+    "question": "During dinner parties at your home, you have a hard time with people who:",
+    "response": {
+      "extrovert": [
+        "Talk privately between themselves",
+        "Always drag the conversation back to themselves"
+      ],
+      "introvert": [
+        "Hang around you all evening",
+        "Ask you to tell a story in front of everyone else"
+      ]
+    }
+  },
+  {
+    "id": "q6",
+    "question": "You crack a joke at work, but nobody seems to have noticed. You:",
+    "response": {
+      "extrovert": [
+        "Keep telling it until they pay attention",
+        "Try again a bit later with one of your colleagues"
+      ],
+      "introvert": [
+        "Think it’s for the best — it was a lame joke anyway",
+        "Wait to share it with your friends after work"
+      ]
+    }
+  },
+  {
+    "id": "q7",
+    "question": "This morning, your agenda seems to be free. You:",
+    "response": {
+      "extrovert": [
+        "Question your colleagues about a project that’s been worrying you",
+        "Pick up the phone and start filling up your agenda with meetings"
+      ],
+      "introvert": [
+        "Know that somebody will find a reason to come and bother you",
+        "Heave a sigh of relief and look forward to a day without stress"
+      ]
+    }
+  },
+  {
+    "id": "q8",
+    "question": "During dinner, the discussion moves to a subject about which you know nothing at all. You:",
+    "response": {
+      "extrovert": [
+        "Ask lots of questions to learn more about it",
+        "Change the subject of discussion"
+      ],
+      "introvert": [
+        "Don’t dare show that you don’t know anything about the subject",
+        "Barely follow the discussion"
+      ]
+    }
+  },
+  {
+    "id": "q9",
+    "question": "You’re out with a group of friends and there’s a person who’s quite shy and doesn’t talk much. You:",
+    "response": {
+      "extrovert": [
+        "Go and have a chat with them",
+        "Shoot some friendly smiles in their direction"
+      ],
+      "introvert": [
+        "Notice that they’re alone, but don’t go over to talk with them",
+        "Hardly notice them at all"
+      ]
+    }
+  },
+  {
+    "id": "q10",
+    "question": "At work, somebody asks for your help for the hundredth time. You:",
+    "response": {
+      "extrovert": [
+        "Ask them, please, to find somebody else for a change",
+        "Loudly make it known that you’re annoyed"
+      ],
+      "introvert": [
+        "Give them a hand, as usual",
+        "Accept — you’re known for being helpful"
+      ]
+    }
+  },
+  {
+    "id": "q11",
+    "question": "You’ve been see a movie with your family and the reviews are mixed. You:",
+    "response": {
+      "extrovert": [
+        "State your point of view with enthusiasm",
+        "Try to bring the others round to your point of view"
+      ],
+      "introvert": [
+        "Don’t share your point of view with anyone",
+        "Didn’t like the film, but keep your views to yourself when asked"
+      ]
+    }
+  },
+  {
+    "id": "q12",
+    "question": "A friend arrives late for your meeting. You:",
+    "response": {
+      "extrovert": [
+        "Tell them, ‘You’re too much! Have you seen the time?’",
+        "Make a scene in front of everyone"
+      ],
+      "introvert": [
+        "Say, ‘It’s not a problem,’ even if that’s not what you really think",
+        "Give them a filthy look and sulk for the rest of the evening"
+      ]
+    }
+  },
+  {
+    "id": "q13",
+    "question": "You can’t find your car keys. You:",
+    "response": {
+      "extrovert": [
+        "Panic and search madly without asking anyone for help",
+        "Accuse those around you for misplacing them"
+      ],
+      "introvert": [
+        "Grumble without telling your family why you’re in a bad mood",
+        "Don’t want anyone to find out, so you take the bus instead"
+      ]
+    }
+  },
+  {
+    "id": "q14",
+    "question": "It’s time for your annual appraisal with your boss. You:",
+    "response": {
+      "extrovert": [
+        "Look forward to hearing what your boss thinks about you and expects from you",
+        "Go along unprepared as you are confident and like improvising"
+      ],
+      "introvert": [
+        "Go with great hesitation as these sessions are torture for you",
+        "Rehearse ad nauseam the arguments and ideas that you’ve prepared for the meeting"
+      ]
+    }
+  }
+]
